@@ -3,12 +3,11 @@ package com.medynotify.activity;
 import java.util.Timer;
 import java.util.TimerTask;
 
-import com.example.medynotify.R;
-
-import android.os.Bundle;
 import android.app.Activity;
 import android.content.Intent;
-import android.view.Menu;
+import android.os.Bundle;
+
+import com.example.medynotify.R;
 
 public class SplashMedyNotify extends Activity {
 

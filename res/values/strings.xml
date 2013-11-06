@@ -6,6 +6,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="background">Background</string>
+    <string name="image">Imagen</string>
+    <string name="text">Texto</string>
     <string name="text_user">Usuario:</string>
     <string name="text_password">Password:</string>
     <string name="text_accept">Aceptar</string>
@@ -13,6 +15,5 @@
     <string name="hector">Hector</string>
     <string name="diego">Diego Sandobal</string>
     <string name="register">Registrarse</string>
-    
 
 </resources>
