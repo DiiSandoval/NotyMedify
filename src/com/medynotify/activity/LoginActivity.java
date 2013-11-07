@@ -6,6 +6,7 @@ import android.view.Menu;
 
 import com.example.medynotify.R;
 
+
 public class LoginActivity extends Activity {
 
 	@Override
